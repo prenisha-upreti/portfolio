@@ -22,7 +22,7 @@ function App() {
       <a href="https://blog" target="_blank"><li>blog</li></a>
         </ul>
       </nav>
-      </div>
+      </div> 
     )
   }
   
